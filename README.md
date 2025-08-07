@@ -5,5 +5,7 @@
 </div>
 
 ## 🕒 Tempo de Código
-[![gabriel's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrielos&theme=dark)](https://github.com/gabriel-os)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gabrielos&theme=dark" alt="gabriel's WakaTime stats"/>
+</div>
 
