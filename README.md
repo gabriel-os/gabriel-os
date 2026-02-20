@@ -8,5 +8,5 @@
 ## 🕒 Tempo de Código
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=gabriel-os&theme=dark" alt="Tempo de código WakaTime"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=gabrielos&theme=dark" alt="Tempo de código WakaTime"/>
 </div>
